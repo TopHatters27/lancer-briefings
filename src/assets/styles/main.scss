@@ -5,35 +5,35 @@
 /*-------------------------------------*/
 
 //Primary Colors
-$primary: rgba(186, 28, 36, 1);
-$secondary: rgba(240, 240, 240, 1);
-$highlight-hover: rgba(255, 255, 255, 0.3);
-$highlight-active: rgba(255, 255, 255, 0.1);
+$primary: rgba(186, 28, 36, 1); // Strong Union Red
+$secondary: rgba(255, 255, 255, 1); // Bright White
+$highlight-hover: rgba(186, 28, 36, 0.3); // Faded red for hover
+$highlight-active: rgba(186, 28, 36, 0.1); // Even softer red for active
 
 //Primary Text
-$text-headers: rgba(0, 0, 0, 1);
-$text-location: rgba(255, 255, 255, 0.87);
+$text-headers: rgba(0, 0, 0, 1); // Black for strong contrast
+$text-location: rgba(186, 28, 36, 1); // Union Red for important location text
 
 //Location Information
-$location-separator: rgba(255, 255, 255, 0.24);
+$location-separator: rgba(186, 28, 36, 0.24); // Subtle red separator
 
 //Mission Pane
-$text-mission-title: rgba(255, 255, 255, 0.67);
-$text-mission-status: rgba(255, 255, 255, 0.87);
-$mission-start: rgba(109, 109, 109, 1);
-$mission-partial: rgba(88, 34, 102, 1);
-$mission-success: rgba(34, 102, 98, 1);
-$mission-failure: rgba(176, 45, 45, 1);
+$text-mission-title: rgba(186, 28, 36, 0.67); 
+$text-mission-status: rgba(186, 28, 36, 0.87);
+$mission-start: rgba(109, 109, 109, 1); // Grey start state
+$mission-partial: rgba(255, 153, 0, 1); // Orange for partial
+$mission-success: rgba(34, 153, 84, 1); // Green for success
+$mission-failure: rgba(176, 45, 45, 1); // Deeper failure red
 
 //Pilot Roster Text
-$text-pilot-header: rgba(255, 255, 255, 0.67);
-$text-pilot-value: rgba(255, 255, 255, 0.87);
-$text-pilot-code: rgba(255, 255, 255, 0.47);
+$text-pilot-header: rgba(186, 28, 36, 0.67);
+$text-pilot-value: rgba(0, 0, 0, 0.87);
+$text-pilot-code: rgba(0, 0, 0, 0.47);
 
 //Markdown (Current Assignment, Events Log, Pilot Biography)
-$text-markdown-p: rgba(255, 255, 255, 0.87);
-$text-markdown-h1: rgba(255, 255, 255, 0.67);
-$text-markdown-h2: rgba(255, 255, 255, 0.87);
+$text-markdown-p: rgba(0, 0, 0, 0.87);
+$text-markdown-h1: rgba(186, 28, 36, 0.67);
+$text-markdown-h2: rgba(0, 0, 0, 0.87);
 
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;600;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
