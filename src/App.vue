@@ -89,15 +89,25 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
-        {
-          "slug": "002",
-          "name": "BROKEN SKY",
+       {
+          "slug": "003",
+          "name": "Broken Sky",
           "status": "start"
         },
+        {
+          "slug": "002",
+          "name": "Cultural Exchange",
+          "status": "success"
+        },
+        {
+          "slug": "001",
+          "name": "The Drop",
+          "status": "success"
+        }
       ],
       "pilots": [
         {
