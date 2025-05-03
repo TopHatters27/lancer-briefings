@@ -26,7 +26,7 @@
 --text-mission-status: rgba(255, 255, 255, 0.87);
 --mission-start: rgba(200, 200, 200, 1); /* Neutral gray */
 --mission-partial: rgba(190, 0, 57, 1); /* Deep red for partial */
---mission-success: #ffffff; /* White to indicate success (purity/order) */
+--mission-success: #228B22; /* White to indicate success (purity/order) */
 --mission-failure: #8b0000; /* Dark red for failure */
 --primary-logo: #c8102e; /* Union red */
 --secondary-logo: #ffffff;
