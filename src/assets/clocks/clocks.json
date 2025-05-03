@@ -3,18 +3,18 @@
 		"type": "Story",
 		"result": "Positive",
 		"name": "Counteroffensive",
-		"description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
+		"description": "Union and LSA forces have now amassed and are now performing a counter-offensive into the heart of the city.",
 		"color": "#7DBBBB",
-		"value": 2,
+		"value": 6,
 		"max": 6
 	},
 	{
 		"type": "Story",
-		"result": "Negative",
-		"name": "Nathan's Revenge",
-		"description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
-		"color": "#FD7777",
-		"value": 2,
+		"result": "Positive",
+		"name": "Hearts and Minds",
+		"description": "During the Cressidium incident, various events and stories are happening throughout the city of Nov Elysia. As top priority is to secure the planet for the Union, how the squad reacts to these events will help various persons of import form their opinion.",
+		"color": "#FFA500",
+		"value": 5,
 		"max": 6
 	}
 ]
