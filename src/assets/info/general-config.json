@@ -1,8 +1,8 @@
 {
-  "initialSlug": "001",
+  "initialSlug": "004",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
+  "defaultTitle": "UNS |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
     "planet": "Cressidium",
